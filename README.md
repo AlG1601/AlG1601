@@ -2,17 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21a2d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Santos;I%27m+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender coisas novas. 
-No momento estou com foco em aprender a desenvolver minhas habilidades para trabalhar como dev backend.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sou um entusiasta da tecnologia, constantemente em busca de conhecimento e apaixonado por desenvolvimento. Atualmente, estou dedicando meus esforços para aprimorar minhas habilidades como desenvolvedor backend, visando uma atuação mais especializada nessa área. Estou animado com o desafio de expandir meu conhecimento e contribuir para projetos significativos. Durante meus estudos, também desenvolvi um interesse na área de Full stack e estou buscando aprender um pouco mais sobre também.
 
 <div>
   <a href="https://beacons.ai/alg1601">
@@ -33,16 +23,17 @@ No momento estou com foco em aprender a desenvolver minhas habilidades para trab
 
 ## 🌱 Atualmente Estou Aprendendo
 
-Estou estudando Desenvolvimento web Java pelo Instituto Proa.
-Aprende sobre:
-- UI/UX
-- HTML/CSS
+Finalizei meu curso de Desenvolvimento web Java no Instituto Proa.
+Agora estou melhorando minhas habilidades em:
+- Javascript
+- Java
+- MySQL
+- Python
+- React
 
 Estou aprendendo sobre:
-
-- JavaScript
-- Java
-- SQL
+- Swagger
+- Angular
 
 ---
 <div align="center">
