@@ -6,8 +6,8 @@ Sou um entusiasta da tecnologia, constantemente em busca de conhecimento e apaix
 
 <div>
   <a href="https://beacons.ai/alg1601">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alg1601&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alg1601&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="240em" src="https://github-readme-stats.vercel.app/api?username=alg1601&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alg1601&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlG1601&bg_color=061222&color=00fa9a&line=03abff&point=00fa9a&area=true&hide_border=false)
@@ -20,6 +20,7 @@ Sou um entusiasta da tecnologia, constantemente em busca de conhecimento e apaix
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-F58219?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6CB33E?style=flat&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-366E9C?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
