@@ -22,6 +22,7 @@ Sou um entusiasta da tecnologia, constantemente em busca de conhecimento e apaix
 ![Java](https://img.shields.io/badge/-Java-F58219?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6CB33E?style=flat&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-366E9C?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-E3752C?style=flat&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
