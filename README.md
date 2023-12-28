@@ -4,7 +4,7 @@
 
 Sou um entusiasta da tecnologia, constantemente em busca de conhecimento e apaixonado por desenvolvimento. Atualmente, estou dedicando meus esforços para aprimorar minhas habilidades como desenvolvedor backend, visando uma atuação mais especializada nessa área. Estou animado com o desafio de expandir meu conhecimento e contribuir para projetos significativos. Durante meus estudos, também desenvolvi um interesse na área de Full stack e estou buscando aprender um pouco mais sobre também.
 
-<div>
+<div align="center">
   <a href="https://beacons.ai/alg1601">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alg1601&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alg1601&layout=compact&langs_count=16&theme=dracula"/>
