@@ -16,8 +16,11 @@ Sou um entusiasta da tecnologia, constantemente em busca de conhecimento e apaix
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-8C0BFD?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-F58219?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-366E9C?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
