@@ -6,8 +6,8 @@ Sou um entusiasta da tecnologia, constantemente em busca de conhecimento e apaix
 
 <div>
   <a href="https://beacons.ai/alg1601">
-    <img height="240em" src="https://github-readme-stats.vercel.app/api?username=alg1601&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alg1601&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=alg1601&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alg1601&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlG1601&bg_color=061222&color=00fa9a&line=03abff&point=00fa9a&area=true&hide_border=false)
