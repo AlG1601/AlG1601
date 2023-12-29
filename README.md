@@ -39,6 +39,8 @@ Agora estou melhorando minhas habilidades em:
 Estou aprendendo sobre:
 - Swagger
 - Angular
+- MongoDB
+- Typescript
 
 ---
 <div align="center">
